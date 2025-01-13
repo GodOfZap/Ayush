@@ -1,3 +1,14 @@
 The AYUSH Hub unites startups, investors, and government entities in a centralized platform for AYUSH projects. It features dedicated dashboards for each group, offering access to AYUSH schemes, resources, and a Product Page for direct purchases. It simplifies networking, shopping, and collaboration by providing a seamless space where users can connect, explore, and team up effortlessly.
 
 This vibrant platform acts as a virtual hangout, fostering effortless interactions among startups, investors, and government associates. Tailored dashboards facilitate easy exploration of AYUSH plans, resources, and products, enhancing connections and enabling direct purchases. The AYUSH Hub redefines collaboration, serving as a convenient space where networking, teamwork, and AYUSH product acquisition blend seamlessly. 
+
+Submission for Smarth India Hackthon
+
+# Video Demo
+
+Here is a demo video:
+
+<video controls width="600">
+  <source src="https://github.com/GodOfZap/Ayush/raw/refs/heads/main/Demo%20(1).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
