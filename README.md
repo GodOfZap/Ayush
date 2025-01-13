@@ -8,7 +8,6 @@ Submission for Smarth India Hackthon
 
 Here is a demo video:
 
-<video controls width="600">
-  <source src="https://raw.githubusercontent.com//GodOfZap/Ayush/raw/refs/heads/main/Demo(1).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/1e3276ef-22f1-4bad-804e-4734a5317d38
+
+
