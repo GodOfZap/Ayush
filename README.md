@@ -1,4 +1,4 @@
-# Submission for Smarth India Hackthon
+# Submission for Smart India Hackthon
 
 The AYUSH Hub unites startups, investors, and government entities in a centralized platform for AYUSH projects. It features dedicated dashboards for each group, offering access to AYUSH schemes, resources, and a Product Page for direct purchases. It simplifies networking, shopping, and collaboration by providing a seamless space where users can connect, explore, and team up effortlessly.
 
