@@ -8,6 +8,5 @@ Submission for Smarth India Hackthon
 
 Here is a demo video:
 
-https://github.com/user-attachments/assets/1e3276ef-22f1-4bad-804e-4734a5317d38
-
+https://github.com/user-attachments/assets/0efdf0f8-c130-4875-8202-204d3b5cd2c1
 
